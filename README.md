@@ -1,4 +1,4 @@
-# Node-Classification-GCN-
+# EdgeLabeler - Document to Citation Mapper using GCN
 The general working of this gcn model is to label the unknown graph nodes (documents) and connect the predicted edges(citation links) to appropriate nodes.
 The model uses 2 hidden layers of gcn with 16 and 18 running units respectively.
 This model uses CORA dataset that is in the steller-graph library. 
